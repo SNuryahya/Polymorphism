@@ -1,0 +1,13 @@
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\bin\Debug\netcoreapp3.1\Polymorpishim Printer.exe
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\bin\Debug\netcoreapp3.1\Polymorpishim Printer.deps.json
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\bin\Debug\netcoreapp3.1\Polymorpishim Printer.runtimeconfig.json
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\bin\Debug\netcoreapp3.1\Polymorpishim Printer.runtimeconfig.dev.json
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\bin\Debug\netcoreapp3.1\Polymorpishim Printer.dll
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\bin\Debug\netcoreapp3.1\Polymorpishim Printer.pdb
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\obj\Debug\netcoreapp3.1\Polymorpishim Printer.csprojAssemblyReference.cache
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\obj\Debug\netcoreapp3.1\Polymorpishim Printer.csproj.CoreCompileInputs.cache
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\obj\Debug\netcoreapp3.1\Polymorpishim Printer.AssemblyInfoInputs.cache
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\obj\Debug\netcoreapp3.1\Polymorpishim Printer.AssemblyInfo.cs
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\obj\Debug\netcoreapp3.1\Polymorpishim Printer.dll
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\obj\Debug\netcoreapp3.1\Polymorpishim Printer.pdb
+D:\Semester 2\Pemrograman\Polymorpishim Printer\Polymorpishim Printer\obj\Debug\netcoreapp3.1\Polymorpishim Printer.genruntimeconfig.cache
